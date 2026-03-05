@@ -1,4 +1,4 @@
-# OMNITAAS – Full Stack Engineer Assessment
+# OMNITAAS – Full Stack Engineer Assignment
 ## Login Application (React + Node.js)
 
 A full-stack login application built with React (frontend) and Node.js with Express (backend).
@@ -37,7 +37,7 @@ A full-stack login application built with React (frontend) and Node.js with Expr
 - Proper HTTP status codes (200 for success, 401 for invalid credentials)
 - Health check endpoint
 
-#### Frontend (React):
+### Frontend (React):
 - Functional components using React Hooks
 - Login page with form validation and error handling
 - Welcome page with user information display
